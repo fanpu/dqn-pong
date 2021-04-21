@@ -1,5 +1,5 @@
 # dqn-pong
-Playing Pong with deep Q-networks. For 10-701 depth exercise.
+Playing Pong with deep Q-networks using OpenAI Gym.
 
 Everything you need is in the Jupyter notebook. 
 
